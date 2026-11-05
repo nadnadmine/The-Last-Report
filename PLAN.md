@@ -24,11 +24,11 @@ Target hasil akhir adalah game yang dapat dimainkan dari awal sampai salah satu 
 | No. | Anggota | NIM | Peran | Fokus tanggung jawab |
 |---|---|---|---|---|
 | 1 | Amanda Puspitarina | 2410511006 | Lead Writer & Narrative | Naskah cerita, dialog, pilihan, isi dokumen, dan aturan naratif ending. |
-| 2 | Najwa Azahra Putri | 2410511008 | Character Artist | Sprite Herman Willem Daendels beserta variasi ekspresi. |
+| 2 | Najwa Azahra Putri | 2410511077 | Character Artist | Sprite Herman Willem Daendels beserta variasi ekspresi. |
 | 3 | Gina Roselia | 2410511027 | Unity Programmer — Core System | Setup teknis Unity, Dialogue System, Branching Dialogue, dan Trust System. |
 | 4 | Rakha Aqilatha Farid | 2410511030 | Unity Programmer — Mechanics & UI Integration | Document Investigation, Evidence Comparison, Clue Found, dan Final Verdict. |
 | 5 | Nadia Jasmine Aulia | 2410511045 | Asset & Integration Specialist | Pengelolaan aset, integrasi visual/audio, dan perakitan tampilan scene. |
-| 6 | Marselia Yura Alinski | 2410511077 | Testing & Quality Control | Pengujian alur, mekanik, pilihan, ending, serta pencatatan dan verifikasi bug. |
+| 6 | Marselia Yura Alinski | 2410511008 | Testing & Quality Control | Pengujian alur, mekanik, pilihan, ending, serta pencatatan dan verifikasi bug. |
 
 ---
 
